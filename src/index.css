@@ -1,0 +1,17 @@
+/* styles.css */
+form,
+input,
+button {
+  display: block;
+  margin: 5px 0;
+}
+h1 {
+  color: #333;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  margin-bottom: 10px;
+}
